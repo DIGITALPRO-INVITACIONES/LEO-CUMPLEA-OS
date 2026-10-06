@@ -1,0 +1,11 @@
+LEONARDO - 10 AÑOS
+18 de octubre de 2026, 13:30. Soccer Club Maracaná, Cochabamba.
+Confirmación y consultas: +59173791008. Digital Pro: +59179352293.
+
+ACTUALIZACIÓN
+Nueva fotografía del equipo en la portada.
+UEFA intenta reproducirse al cargar la portada. Si el navegador bloquea la reproducción automática con sonido, se activa con el botón visible de UEFA.
+Al tocar la pelota, UEFA se detiene y Bruno Mars comienza, junto con el nuevo video de goles (1:26,69). El nuevo video se conserva completo.
+
+GITHUB
+Extrae el ZIP y sube todos sus archivos y la carpeta assets a la raíz del repositorio, sustituyendo los anteriores. No subas solamente el ZIP. Conserva la configuración de GitHub Pages existente.
